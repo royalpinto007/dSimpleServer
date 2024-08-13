@@ -1,0 +1,11 @@
+{
+    "name": "dSimpleServer",
+    "description": "A simple web server written in D using vibe.d",
+    "authors": [
+        "Royal Simpson Pinto"
+    ],
+    "dependencies": {
+        "vibe-d": "~>0.9.4"
+    },
+    "targetType": "executable"
+}
